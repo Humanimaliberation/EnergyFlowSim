@@ -1,5 +1,5 @@
 # EnergyFlowSim
-EnergyFlowSim is a program including two subprograms written in matlab code running GNU Octave on Ubuntu:
+EnergyFlowSim is a program including following subprograms written in matlab code running GNU Octave on Ubuntu 14.04:
 
 1) weatheranalysis.m    	Description: Analyses global radiation data from ftp-Server of the Climate Data Center (CDC) of 
 				the Wetterdienst (DWD) and generate daily photovoltaic generation profiles in hourly steps
