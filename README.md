@@ -1,5 +1,5 @@
 # EnergyFlowSim
-EnergyFlowSim is a program including following subprograms written in matlab code running GNU Octave on Ubuntu 14.04:
+EnergyFlowSim is a program including following subprograms written in matlab code running GNU Octave 4.0.0 on Ubuntu 14.04:
 
 1) weatheranalysis.m 
 Description:			Analyses global radiation data from ftp-Server of the Climate Data Center (CDC) of 
