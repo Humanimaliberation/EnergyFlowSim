@@ -63,8 +63,10 @@ printf("Programstart: Let us begin! \n");
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % INITIALISATION (manual configuration of parameters)
-filename_1h = 'produkt_st_stunde_19790101_20180330_05906.txt';  % 1h-timebase data 
-filename_24h = 'produkt_st_tag_19790101_20180330_05906.txt';    % 24h-timebase data
+filename_1h = 'Testdaten_1h.txt';  				 % 1h-timebase data shortened dataset 
+filename_24h = 'Testdaten_2h.txt';    				 % 24h-timebase data shortened dataset
+%filename_1h = 'produkt_st_stunde_19790101_20180330_05906.txt';  % 1h-timebase data  original full dataset
+%filename_24h = 'produkt_st_tag_19790101_20180330_05906.txt';    % 24h-timebase data original full dataset
 
 frmt_1h = ['%d %s %d %d %f %f %f %f %s']; % Datatypes: Integer(%d), String)(%s), Float(%f) NOTE: Theoretisch reichen Int16 (%d16)
 frmt_24h = ['%d %s %d %d %f %f %f'];      % Datatypes: Integer(%d), String)(%s), Float(%f) NOTE: Theoretisch reichen Int16 (%d16)
