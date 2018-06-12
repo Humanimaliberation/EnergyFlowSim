@@ -1,0 +1,11 @@
+Comment;cps.id;Mode;W;Wmax;t_start;t_end
+.info;.id;.mode;.w;.wmax;.t0;.tT
+{1}(n,1);{1}(n,2);{1}(n,3);{2}(n,1);{2}(n,2);{2}(n,3);{2}(n,4)
+BMW i3;LP1;SofoL;9.96;33.2;800;1600
+Renault Zoe Z.E.40;LP1;SofoL;12.3;41;1600;2400
+Renault Zoe Z.E.40;LP2;SofoL;12.3;41;900;1700
+Electro Smart;LP3;SofoL;5.28;17.6;1700;2400
+ZeroDS;LP4;SofoL;3.42;11.4;1400;2400
+Vectrix;LP5;SofoL;1.32;4.4;1400;2400
+Pufferbatterie;PB;PB;1.71;3.42;0;2400
+PV 20,145 kWp;PV;PV;0;0;0;2400

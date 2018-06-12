@@ -1,0 +1,13 @@
+Comment;cps.id;Mode;W;Wmax;t_start;t_end
+.info;.id;.mode;.w;.wmax;.t0;.tT
+{1}(n,1);{1}(n,2);{1}(n,3);{2}(n,1);{2}(n,2);{2}(n,3);{2}(n,4)
+Renault Zoe Z.E.40;LP1;FlexL;12.3;41;800;1600
+Vectrix;LP4;FlexL;2.86;4.4;0;1000
+Vectrix;LP4;FlexL;1.32;2.86;1400;2400
+Wirsol Polaris ;LP6;FlexL;0.12;0.4;800;1600
+Wirsol Polaris ;LP7;FlexL;0.12;0.4;800;1600
+Wirsol Polaris ;LP8;FlexL;0.12;0.4;900;1700
+Wirsol Polaris ;LP9;FlexL;0.12;0.4;900;1700
+Wirsol Polaris ;LP10;FlexL;0.12;0.4;1000;1600
+Pufferbatterie;PB;PB;0;0;0;2400
+PV 20,145 kWp;PV;PV;0;0;0;2400

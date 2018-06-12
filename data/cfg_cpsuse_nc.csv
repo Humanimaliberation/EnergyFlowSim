@@ -1,0 +1,12 @@
+Comment;cps.id;Mode;W;Wmax;t_start;t_end
+.info;.id;.mode;.w;.wmax;.t0;.tT
+{1}(n,1);{1}(n,2);{1}(n,3);{2}(n,1);{2}(n,2);{2}(n,3);{2}(n,4)
+Renault Zoe Z.E.40;LP1;KontL;12.3;41;800;1600
+Electro Smart;LP2;KontL;11.44;17.6;0;700
+Electro Smart;LP2;KontL;5.28;11.44;1700;2400
+Vectrix;LP4;KontL;2.86;4.4;0;900
+Vectrix;LP4;KontL;1.32;2.86;1400;2400
+Wirsol Polaris ;LP6;KontL;0.12;0.4;800;1600
+Wirsol Polaris ;LP7;KontL;0.12;0.4;900;1700
+Pufferbatterie;PB;PB;1.71;3.42;0;2400
+PV 20,145 kWp;PV;PV;0;0;0;2400
